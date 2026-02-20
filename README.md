@@ -53,4 +53,4 @@ Additional form validation and accessibility features could be added.
 
 What I Learned:
 
-This project helped me develop practical skills in website planning, front-end development, testing, documentation, and evaluation. It also improved my understanding of working to client requirements, usability considerations, and iterative improvement, which are directly relevant to an IT or software development apprenticeship.
+This project helped me develop practical skills in website planning, front-end development, testing, documentation, and evaluation. It also improved my understanding of working to client requirements, usability considerations, and iterative improvement.
